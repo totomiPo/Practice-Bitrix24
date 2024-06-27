@@ -22,8 +22,8 @@ Class myhello extends CModule
         $this->MODULE_VERSION = $arModuleVersion["VERSION"];
         $this->MODULE_VERSION_DATE = $arModuleVersion["VERSION_DATE"];
 
-        $this->MODULE_NAME = "Мой привет"
-        $this->MODULE_DESCRIPTION = "Этот модуль передает всем привет"
+        $this->MODULE_NAME = "Мой привет";
+        $this->MODULE_DESCRIPTION = "Этот модуль передает всем привет";
     }
 
 

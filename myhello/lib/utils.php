@@ -9,10 +9,9 @@ namespace Bitrix\Myhello;
 
 class Utils {
     public  $param;
-
-    public function hi()
+    static function hi()
     {
-        echo "Привет мир!"
+        echo "Привет мир!";
     }
 }
 
